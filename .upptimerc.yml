@@ -1,31 +1,62 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: get-gpt
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Get ChatGPT Home Page
+    url: https://getgptapi.com
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Get ChatGPT Chat Online
+    url: https://chat.getgptapi.com
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Get ChatGPT API
+    url: https://api.getgptapi.com/api/v1/ping
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Proxy - Global
+    url: https://openai.getgptapi.com/api/v1/ping
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Proxy - us-e154412c.getgptapi.com
+    url: https://us-e154412c.getgptapi.com/api/v1/ping
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Proxy - us-d8c90975.getgptapi.com
+    url: https://us-d8c90975.getgptapi.com/api/v1/ping
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+
+workflowSchedule:
+  graphs: "5 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 1 * * *"
+  summary: "5 * * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "5 * * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.getgptapi.com
+  logoUrl: https://getgptapi.com/logo.png
+  favicon: https://getgptapi.com/logo.png
+  name: Status
+  introTitle: "Status of Get ChatGPT"
+  introMessage: The Status Page which uses **real-time** data from our [GitHub repository](https://github.com/get-gpt/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
