@@ -114,19 +114,19 @@
     "url": "https://proxy.getgptapi.com/v1/models",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.getgptapi.com.ico",
     "slug": "get-chat-gpt-pure-proxy",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 1989,
-    "timeWeek": 1053,
-    "timeMonth": 851,
-    "timeYear": 851,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 834,
+    "timeDay": 1512,
+    "timeWeek": 998,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2023-05-23": 0
+      "2023-05-23": 8
     }
   },
   {
