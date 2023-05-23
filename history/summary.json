@@ -114,18 +114,20 @@
     "url": "https://proxy.getgptapi.com/v1/models",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.getgptapi.com.ico",
     "slug": "get-chat-gpt-pure-proxy",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 621,
-    "timeWeek": 724,
-    "timeMonth": 684,
-    "timeYear": 684,
-    "dailyMinutesDown": {}
+    "time": 851,
+    "timeDay": 1989,
+    "timeWeek": 1053,
+    "timeMonth": 851,
+    "timeYear": 851,
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   },
   {
     "name": "Get ChatGPT - Pure Proxy 1",
