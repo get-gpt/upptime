@@ -24,19 +24,19 @@
     "url": "https://chat.getgptapi.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.getgptapi.com.ico",
     "slug": "get-chat-gpt-chat-online",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 294,
-    "timeWeek": 242,
-    "timeMonth": 180,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 213,
+    "timeDay": 244,
+    "timeWeek": 236,
+    "timeMonth": 181,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-06-15": 0
+      "2023-06-15": 16
     }
   },
   {
