@@ -98,19 +98,19 @@
     "url": "https://us-d8c90975.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/us-d8c90975.getgptapi.com.ico",
     "slug": "domain-us-d8c90975-getgptapi-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 256,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 256,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 250,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-10": 8
     }
   },
   {
