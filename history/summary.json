@@ -13,7 +13,7 @@
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 126,
+    "timeMonth": 127,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-05-10": 17
@@ -33,7 +33,7 @@
     "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 214,
+    "timeMonth": 211,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-06-15": 16
@@ -71,8 +71,44 @@
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 195,
+    "timeMonth": 185,
     "timeYear": 200,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Domain - i.getgptapi.com",
+    "url": "https://i.getgptapi.com/api/v1/ping",
+    "icon": "https://icons.duckduckgo.com/ip3/i.getgptapi.com.ico",
+    "slug": "domain-i-getgptapi-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Domain - us-d8c90975.getgptapi.com",
+    "url": "https://us-d8c90975.getgptapi.com/api/v1/ping",
+    "icon": "https://icons.duckduckgo.com/ip3/us-d8c90975.getgptapi.com.ico",
+    "slug": "domain-us-d8c90975-getgptapi-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 256,
+    "timeDay": 0,
+    "timeWeek": 191,
+    "timeMonth": 249,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -89,29 +125,9 @@
     "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 193,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Domain - us-d8c90975.getgptapi.com",
-    "url": "https://us-d8c90975.getgptapi.com/api/v1/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/us-d8c90975.getgptapi.com.ico",
-    "slug": "domain-us-d8c90975-getgptapi-com",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 256,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 250,
-    "timeYear": 256,
-    "dailyMinutesDown": {
-      "2023-07-10": 8
-    }
   },
   {
     "name": "Get ChatGPT - Pure Proxy",
@@ -145,7 +161,7 @@
     "time": 674,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 621,
+    "timeMonth": 629,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2023-06-05": 16
@@ -165,7 +181,7 @@
     "time": 642,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 635,
+    "timeMonth": 630,
     "timeYear": 642,
     "dailyMinutesDown": {}
   }
