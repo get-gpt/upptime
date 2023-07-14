@@ -13,7 +13,7 @@
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 127,
+    "timeMonth": 124,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-05-10": 17
@@ -33,7 +33,7 @@
     "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 211,
+    "timeMonth": 201,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-06-15": 16
@@ -53,7 +53,7 @@
     "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 157,
+    "timeMonth": 160,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -71,26 +71,8 @@
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 185,
+    "timeMonth": 175,
     "timeYear": 200,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Domain - i.getgptapi.com",
-    "url": "https://i.getgptapi.com/api/v1/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/i.getgptapi.com.ico",
-    "slug": "domain-i-getgptapi-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
     "dailyMinutesDown": {}
   },
   {
@@ -98,18 +80,20 @@
     "url": "https://us-d8c90975.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/us-d8c90975.getgptapi.com.ico",
     "slug": "domain-us-d8c90975-getgptapi-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 0,
     "timeWeek": 191,
-    "timeMonth": 249,
+    "timeMonth": 250,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "Domain - us-e154412c.getgptapi.com",
@@ -125,7 +109,7 @@
     "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 159,
+    "timeMonth": 156,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -143,7 +127,7 @@
     "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 634,
+    "timeMonth": 645,
     "timeYear": 717,
     "dailyMinutesDown": {}
   },
@@ -161,7 +145,7 @@
     "time": 674,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 629,
+    "timeMonth": 593,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2023-06-05": 16
@@ -181,7 +165,7 @@
     "time": 642,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 630,
+    "timeMonth": 605,
     "timeYear": 642,
     "dailyMinutesDown": {}
   }
