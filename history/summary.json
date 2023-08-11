@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/getgptapi.com.ico",
     "slug": "get-chat-gpt-home-page",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 124,
+    "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-05-10": 17
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.getgptapi.com.ico",
     "slug": "get-chat-gpt-chat-online",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 201,
+    "timeMonth": 0,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-06-15": 16
@@ -53,7 +53,7 @@
     "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 160,
+    "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -62,37 +62,19 @@
     "url": "https://api.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.getgptapi.com.ico",
     "slug": "domain-global-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 175,
+    "timeMonth": 0,
     "timeYear": 200,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Domain - us-d8c90975.getgptapi.com",
-    "url": "https://us-d8c90975.getgptapi.com/api/v1/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/us-d8c90975.getgptapi.com.ico",
-    "slug": "domain-us-d8c90975-getgptapi-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 0,
-    "timeWeek": 191,
-    "timeMonth": 250,
-    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-07-14": 0
+      "2023-08-11": 1
     }
   },
   {
@@ -100,18 +82,20 @@
     "url": "https://us-e154412c.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/us-e154412c.getgptapi.com.ico",
     "slug": "domain-us-e154412c-getgptapi-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 156,
+    "timeMonth": 0,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   },
   {
     "name": "Get ChatGPT - Pure Proxy",
@@ -127,7 +111,7 @@
     "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 645,
+    "timeMonth": 0,
     "timeYear": 717,
     "dailyMinutesDown": {}
   },
@@ -137,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy-1.getgptapi.com.ico",
     "slug": "get-chat-gpt-pure-proxy-1",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 674,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 593,
+    "timeMonth": 0,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2023-06-05": 16
@@ -165,7 +149,7 @@
     "time": 642,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 605,
+    "timeMonth": 0,
     "timeYear": 642,
     "dailyMinutesDown": {}
   }
