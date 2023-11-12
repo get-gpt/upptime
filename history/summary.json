@@ -45,9 +45,9 @@
     "url": "https://i.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/i.getgptapi.com.ico",
     "slug": "get-chat-gpt-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 0,
     "timeYear": 180,
     "dailyMinutesDown": {
+      "2023-11-12": 0,
       "2023-09-21": 26
     }
   },
@@ -144,18 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy-2.getgptapi.com.ico",
     "slug": "get-chat-gpt-pure-proxy-2",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 683,
     "timeDay": 1534,
     "timeWeek": 1534,
     "timeMonth": 1534,
     "timeYear": 683,
-    "dailyMinutesDown": {
-      "2023-11-12": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
