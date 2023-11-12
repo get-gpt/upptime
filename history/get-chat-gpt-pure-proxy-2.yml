@@ -1,7 +1,7 @@
 url: https://proxy-2.getgptapi.com/v1/models
-status: up
+status: degraded
 code: 200
-responseTime: 697
-lastUpdated: 2023-06-18T23:01:04.755Z
+responseTime: 2346
+lastUpdated: 2023-11-12T05:55:06.530Z
 startTime: Tue May 09 2023 02:25:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
