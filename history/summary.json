@@ -66,11 +66,11 @@
     "url": "https://api.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.getgptapi.com.ico",
     "slug": "domain-global-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 189,
     "timeDay": 83,
@@ -78,7 +78,7 @@
     "timeMonth": 83,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-03-12": 8,
+      "2024-03-12": 1,
       "2023-12-01": 370,
       "2023-11-30": 170
     }
@@ -88,11 +88,11 @@
     "url": "https://us-e154412c.getgptapi.com/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/us-e154412c.getgptapi.com.ico",
     "slug": "domain-us-e154412c-getgptapi-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 183,
     "timeDay": 83,
@@ -100,7 +100,7 @@
     "timeMonth": 83,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-03-12": 8,
+      "2024-03-12": 0,
       "2023-12-01": 370,
       "2023-11-30": 169
     }
